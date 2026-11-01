@@ -1,0 +1,6 @@
+{
+  "asset": { "version": "2.0", "generator": "Indoor Weather proxy (no geometry; visuals are built in code)" },
+  "scene": 0,
+  "scenes": [{ "nodes": [0] }],
+  "nodes": [{ "name": "controller-proxy" }]
+}

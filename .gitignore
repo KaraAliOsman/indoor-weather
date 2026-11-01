@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.iwsdk/
+test-results/
+playwright-report/
+tests/e2e/.artifacts/
+*.log
+.env*
